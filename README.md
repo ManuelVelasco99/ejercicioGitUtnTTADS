@@ -1,2 +1,2 @@
 # ejercicioGitUtnTTADS
-repositorio para un ejercicio de git
+Repositorio para un ejercicio de git
